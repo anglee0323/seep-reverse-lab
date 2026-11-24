@@ -71,7 +71,7 @@
     "debug": "4.4.3",
     "dotenv": "^16.4.7",
     "openai": "^4.73.0",
-    "puppeteer-core": "24.31.0",
+    "puppeteer-core": "25.18.1",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
     "sm-crypto": "^0.4.0",
